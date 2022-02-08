@@ -4,7 +4,7 @@ with [Arina](https://github.com/cvenkman) (:
 
 Raycasting game (almost a game)
 
-Done with help of MLX (42school version of x11 library), macOS version - for linux must use [MLX-Linux](https://github.com/42Paris/minilibx-linux)
+Done with help of MLX, macOS version - for linux must use [MLX-Linux](https://github.com/42Paris/minilibx-linux)
 
 ### Compiling
 
